@@ -1,0 +1,30 @@
+.card-box {
+	width: 300px;
+	height: 20%;
+	border: 2px solid;
+	display: flex;
+	margin: 20px 0 0 20px;
+	padding: 20px;
+	justify-content: center;
+	box-shadow: 5px 10px #888888;
+}
+
+.new-card-box {
+	width: 300px;
+	height: 20%;
+	flex-direction: column;
+	border: 2px solid black;
+	display: flex; 
+	margin: 20px 0 20px 20px;
+	padding: 20px 20px 41px 20px;
+	justify-content: center;
+	box-shadow: 5px 10px #524e4e;
+	background-color:rgb(15, 56, 153);
+	color: white;
+}
+
+.card-container {
+	padding-bottom: 20px;
+	margin: 3% 0 0 30%;
+	height: 100vh;
+}
